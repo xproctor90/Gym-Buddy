@@ -1,0 +1,24 @@
+{
+  "name": "gymbuddy",
+  "version": "1.0.0",
+  "description": "a fun gym buddy finding application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xproctor90/Gym-Buddy.git"
+  },
+  "keywords": [
+    "gym",
+    "buddy",
+    "workout"
+  ],
+  "author": "Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xproctor90/Gym-Buddy/issues"
+  },
+  "homepage": "https://github.com/xproctor90/Gym-Buddy#readme"
+}
