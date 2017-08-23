@@ -13,7 +13,7 @@ app.use(bodyParser.json({type:'application/vnd.api+json'}));
 
 // Static files
 // needs to be called before the routes in order to work
-app.use(express.static('app/public'));
+app.use(express.static('application/public'));
 
 //Router
 require('./application/routing/api-routes.js')(app); 
